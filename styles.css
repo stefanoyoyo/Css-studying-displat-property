@@ -4,15 +4,19 @@ div#container-1 {
   display: block;
 }
 
+/* Each box is placed on the same line */
 div.box {
   position: relative;
   display: inline-block;
-  width: 30%;
+  min-width: 30%;
   height: 30%;
   background-color:red ;
   margin:1px;
+  text-align: center;
 }
 
-a {
+p.text {
   display: block;
+  position: relative;
+  top: 25%;
 }

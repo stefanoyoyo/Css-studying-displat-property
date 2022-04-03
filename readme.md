@@ -29,5 +29,5 @@ COSA HO IMPARATO:
       • span: possiene un display inline di default. Questa è la ragione per cui degli
               span stanno sempre sulla stessa riga, quando ovviamente non viene modificato
               il loro display. 
-      • 
+  • text-align sembra funzionare solo con disolat block. 
  
