@@ -1,6 +1,7 @@
 In questo progetto voglio imparare ad evitare display flex 
 nel definire come disporre gli elementi nella pagina.
 
+https://www.youtube.com/watch?v=Qf-wVa9y9V4
 COSA HO IMPARATO: 
  • Solo i tipi di display "flex" e "grid" permettono di definire come 
    devono essere disposti gli elementi all'interno di un container: tutti
