@@ -1,6 +1,10 @@
 
 
-div#container {
+div#container-1 {
+  display: block;
+}
+
+div.box {
   position: relative;
   display: inline-block;
   width: 30%;
